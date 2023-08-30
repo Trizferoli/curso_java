@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        String name = "Beatriz";
+        String name = "Beatriz ";
         String sobrenome = "Oliveira";
 
         String nomeCompleto = nomeCompleto(name, sobrenome);
